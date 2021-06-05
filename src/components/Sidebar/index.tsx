@@ -28,5 +28,5 @@ export function Sidebar() {
     <Box as="aside" w="64" mr="8">
       <SidebarNav />
     </Box>
-  )
+  );
 }
